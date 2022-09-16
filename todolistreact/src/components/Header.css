@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+
+}
+.App{
+    padding-top: 15px;
+    background-color:#36373d ;
+    height:120px;
+    text-align: center;
+
+}
+.Header{
+    font-size: 2rem;
+}

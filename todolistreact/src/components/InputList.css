@@ -1,0 +1,11 @@
+.Input{
+    padding:5px;
+    width:80%
+}
+.Btn{
+    width:20%;
+    padding:5px;
+    color:  #22223B;
+    font-size: 1rem;
+    background-color:#f6BD60;
+}
